@@ -6,7 +6,7 @@
 
 This is my YouTube channel https://www.youtube.com/channel/UCUGeS7DpzK_gLlqDf0dqWtg
 
-This isy Telegram bot http://telegram.me/Enryhenytbot
+This is my Telegram bot http://telegram.me/Enryhenytbot
 
 <!---
 Enryhen/Enryhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
